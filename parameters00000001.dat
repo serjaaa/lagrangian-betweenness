@@ -1,0 +1,17 @@
+land_sea_norm=0.000000
+vel_product=3.000000
+verbose=1.000000
+node_size=0.250000
+particle_latspacing=0.062500
+network_ll_lon=143.000000
+network_tr_lon=146.000000
+network_ll_lat=34.500000
+network_tr_lat=37.187500
+layer_index=1.000000
+start_date=02-02-2006;00
+tau=10.000000
+delta0_ftle=0.125000
+delta_fsle_fin=0.300000
+trj_timestep=8.000000
+rand_idx=1.000000
+opz_clim=0.000000
