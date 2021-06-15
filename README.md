@@ -14,7 +14,7 @@ The repository `lagrangian-betweenness` contains the codes designed to compute L
 
 2 - Do the same thing in the file `parameters.cpp` at line 322
 
-3 - Compile the code with a C++ compiler (this can be done with the Makefile that will produce the executable betw_computation.out) and run the resulting executable. 
+3 - Compile the code with a C++ compiler (this can be done with the Makefile that will produce the executable `betw_computation.out`) and run the resulting executable. 
 
 
 
