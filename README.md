@@ -30,7 +30,7 @@ The name of this file must (i) begin with the name of the velocity field product
 
 ## References
 
-[[Ser-Giacomi et al. 2021]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.042309) Ser-Giacomi, E., et al. Lagrangian betweenness: a measure of bottlenecks in dynamical systems with oceanographic examples. *Nature Communications* (2021)
+[[Ser-Giacomi et al. 2021]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.042309) Ser-Giacomi, E., et al. Lagrangian betweenness as a measure of bottlenecks in dynamical systems with oceanographic examples. *Nature Communications* (2021)
 
 
 
