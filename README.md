@@ -10,7 +10,7 @@ The repository `lagrangian-betweenness` contains the codes designed to compute L
 
 ## Instructions
 
-1 - Change line 51 and 52 in `betw_computation.cpp` with the actual path to the folder named "Outputs", which is found inside code_Betweenness folder
+1 - Change line 51 and 52 in `betw_computation.cpp` with the actual paths of inputs and outputs folders
 
 2 - Do the same thing in the file `parameters.cpp` at line 322
 
